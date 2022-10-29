@@ -1,5 +1,5 @@
 # labyrinth-project
-Project for Mobile Robotics.
+This project is part of the Mobile Robotics given at EPFL during fall semester 2021. For more informations about implmentation of the code, please check our [Jupyter notebook report](Thyminotaur_Escaping_the_maze.ipynb).
 
 Main: [Main.py](Main.py)
 
